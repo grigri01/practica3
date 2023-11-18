@@ -1,0 +1,7 @@
+D:\tem\agendajpa\src\main\java\com\emergentres\controller\ContactoController.java
+D:\tem\agendajpa\src\main\java\com\emergentres\entidades\Contacto.java
+D:\tem\agendajpa\src\main\java\com\emergentres\bean\BeanContacto.java
+D:\tem\agendajpa\src\main\java\com\emergentres\jpa\exceptions\IllegalOrphanException.java
+D:\tem\agendajpa\src\main\java\com\emergentres\jpa\exceptions\NonexistentEntityException.java
+D:\tem\agendajpa\src\main\java\com\emergentres\jpa\exceptions\PreexistingEntityException.java
+D:\tem\agendajpa\src\main\java\com\emergentres\jpa\ContactoJpaController.java
